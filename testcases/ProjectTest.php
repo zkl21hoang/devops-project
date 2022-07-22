@@ -10,7 +10,7 @@ class ProjectTest extends TestCase
 
         $project = new DevopsTest;
 
-        $project->project_name = "DevopsProject";
+        $project->project_name = "DevopsProject1";
 
         $this->assertEquals('DevopsProject', $project->getProjectName());
     }
