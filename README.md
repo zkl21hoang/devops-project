@@ -1,2 +1,3 @@
 # devops-project
-commit number: 5
+commit number: 6
+Anh Minh Ho - Minh Hoang Nguyen
